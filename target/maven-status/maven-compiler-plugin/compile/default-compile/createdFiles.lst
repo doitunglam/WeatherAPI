@@ -1,0 +1,4 @@
+com\hackerrank\weather\repository\WeatherRepository.class
+com\hackerrank\weather\Application.class
+com\hackerrank\weather\model\Weather.class
+com\hackerrank\weather\controller\WeatherApiRestController.class

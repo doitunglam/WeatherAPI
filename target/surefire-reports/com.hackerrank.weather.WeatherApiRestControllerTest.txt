@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.hackerrank.weather.WeatherApiRestControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.369 s <<< FAILURE! - in com.hackerrank.weather.WeatherApiRestControllerTest
+testWeatherEndpointWithGETListAndCityFilter  Time elapsed: 1.062 s  <<< FAILURE!
+java.lang.AssertionError: 
+JSON path "$.*"
+Expected: a collection with size <2>
+     but: collection size was <0>
+	at com.hackerrank.weather.WeatherApiRestControllerTest.testWeatherEndpointWithGETListAndCityFilter(WeatherApiRestControllerTest.java:142)
+
